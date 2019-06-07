@@ -1,0 +1,11 @@
+.MuiDrawer-paperAnchorDockedLeft-216.MuiPaper-root-10 {
+    background-color:rgb(86, 125, 121);
+    width: 15%;
+    /* top:auto; */
+}
+.side{
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  
+}
